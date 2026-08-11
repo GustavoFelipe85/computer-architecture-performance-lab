@@ -1,0 +1,18 @@
+Intel Core i5-3470
+4 cores / 4 threads
+Ubuntu/Linux via WSL2
+GCC 15.2.0
+Valgrind/Callgrind 3.26.0
+
+Bubble Sort
+Quick Sort
+
+-O0
+-O3
+
+L1 D simulada:
+8 KB
+64 KB
+
+LL:
+6 MB
