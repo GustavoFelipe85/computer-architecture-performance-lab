@@ -1,3 +1,6 @@
+## `README.md` — Português
+
+````markdown
 # Computer Architecture & Performance Lab
 
 🇬🇧 [Read this documentation in English](README_en.md)
@@ -193,3 +196,73 @@ computer-architecture-performance-lab/
     ├── methodology.md
     ├── reproducibility.md
     └── limitations.md
+````
+
+---
+
+## ♻️ Reprodutibilidade
+
+Sempre que possível, cada experimento disponibilizará:
+
+* código-fonte;
+* versão do compilador;
+* parâmetros de compilação;
+* parâmetros de execução;
+* configuração experimental;
+* métricas coletadas;
+* resultados;
+* scripts de análise;
+* limitações conhecidas.
+
+A documentação busca permitir que os experimentos sejam reproduzidos e auditados tecnicamente.
+
+---
+
+## ⚠️ Limitações
+
+Os resultados devem ser interpretados dentro das condições específicas de cada experimento.
+
+Entre as limitações estão:
+
+* utilização de ambientes virtualizados quando aplicável;
+* diferenças entre hardware real e modelos de profiling;
+* número de repetições experimentais;
+* tamanho dos conjuntos de dados;
+* parâmetros adotados nas simulações e estimativas;
+* diferenças arquiteturais entre os processadores avaliados.
+
+As limitações serão documentadas juntamente com cada experimento.
+
+---
+
+## 🎓 Contexto Acadêmico
+
+Os experimentos deste laboratório foram desenvolvidos a partir de atividades acadêmicas e estudos em:
+
+**Arquitetura de Computadores**
+**Programação Paralela**
+**Análise de Desempenho de Algoritmos**
+
+O repositório possui finalidade educacional, experimental e de portfólio técnico.
+
+---
+
+## 👤 Autor
+
+**Gustavo F. Paluch**
+
+Engenheiro da Computação
+Cibersegurança • Infraestrutura de TI • DevOps • IoT
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/gustavofpaluch)
+* 💻 [GitHub](https://github.com/GustavoFelipe85)
+* 🧪 [ORCID](https://orcid.org/0009-0007-1926-5139)
+
+---
+
+## 📄 Licença
+
+A licença e as condições de reutilização serão definidas conforme a organização final dos experimentos e dos materiais acadêmicos associados.
+
+````
+
