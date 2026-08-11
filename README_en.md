@@ -1,6 +1,3 @@
-# `README_en.md` — English
-
-```markdown
 # Computer Architecture & Performance Lab
 
 🇧🇷 [Leia esta documentação em Português](README.md)
