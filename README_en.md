@@ -259,7 +259,7 @@ Cybersecurity • IT Infrastructure • DevOps • IoT
 
 ## 📄 License
 
-The license and reuse conditions will be defined according to the final organization of the experiments and associated academic materials.
+This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ```
 
