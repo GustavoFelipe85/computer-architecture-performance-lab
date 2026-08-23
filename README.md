@@ -259,7 +259,7 @@ Cibersegurança • Infraestrutura de TI • DevOps • IoT
 
 ## 📄 Licença
 
-A licença e as condições de reutilização serão definidas conforme a organização final dos experimentos e dos materiais acadêmicos associados.
+Este projeto está licenciado sob os termos da MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ````
 
