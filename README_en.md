@@ -1,24 +1,25 @@
 # Computer Architecture & Performance Lab
 
+[![LinkedIn Article](https://img.shields.io/badge/LinkedIn-Technical%20Article-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/pulse/do-sil%C3%ADcio-ao-algoritmo-o-que-cache-compiladores-e-gustavo-ywaxf/)
+
+> 📖 **LinkedIn Pulse Article:** [From Silicon to Algorithm – What cache, compilers, and parallelism reveal about performance](https://www.linkedin.com/pulse/do-sil%C3%ADcio-ao-algoritmo-o-que-cache-compiladores-e-gustavo-ywaxf/)
+
 🇧🇷 [Leia esta documentação em Português](README.md)
 
-Experimental laboratory dedicated to the study of **Computer Architecture, Microprocessors, Memory Hierarchy, CPU Cache, and Parallel Computing**, with a focus on performance analysis, reproducible experimentation, and evaluation of different computational strategies.
+Experimental laboratory focused on the study of **Computer Architecture, Microprocessors, Memory Hierarchy, Cache Memory, and Parallel Computing**, with emphasis on performance analysis, reproducible experimentation, and evaluation of computational strategies.
 
 ---
 
-## 🎯 Objective
+### 🎯 Objective
 
-This repository brings together practical experiments developed in the context of studies in **Computer Architecture and Parallel Programming**, investigating the relationship between:
+This repository gathers practical experiments developed in the context of advanced studies in **Computer Architecture and Parallel Programming**, investigating the relationship between:
 
-- processor architecture;
-- algorithm behavior;
-- memory hierarchy;
-- CPU cache;
-- compiler optimizations;
-- sequential and parallel execution;
-- computational performance.
-
-The adopted approach is experimental, using performance metrics, profiling tools, and documented procedures to support reproducibility.
+* Processor microarchitecture;
+* Algorithmic behavior and memory access patterns;
+* Memory hierarchy and cache sensitivity;
+* Compiler optimization flags;
+* Shared-memory (OpenMP) and distributed-memory (MPI) parallelism;
+* Real execution trade-offs (scalability, overhead, and oversubscription).
 
 ---
 
