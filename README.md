@@ -262,4 +262,6 @@ Cibersegurança • Infraestrutura de TI • DevOps • IoT
 Este projeto está licenciado sob os termos da MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ````
+[![LinkedIn Article](https://img.shields.io/badge/LinkedIn-Artigo%20Técnico-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/pulse/do-sil%C3%ADcio-ao-algoritmo-o-que-cache-compiladores-e-gustavo-ywaxf/)
 
+> 📖 **Artigo no LinkedIn Pulse:** [Do Silício ao Algoritmo – O que cache, compiladores e paralelismo revelam sobre performance](https://www.linkedin.com/pulse/do-sil%C3%ADcio-ao-algoritmo-o-que-cache-compiladores-e-gustavo-ywaxf/)
