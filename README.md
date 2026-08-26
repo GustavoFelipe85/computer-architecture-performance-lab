@@ -9,7 +9,7 @@ Laboratório experimental dedicado ao estudo de **Arquitetura de Computadores, M
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Este repositório reúne experimentos práticos desenvolvidos no contexto de estudos em **Arquitetura de Computadores e Programação Paralela**, investigando a relação entre:
 
@@ -25,7 +25,7 @@ A abordagem adotada é experimental, utilizando métricas de desempenho, ferrame
 
 ---
 
-## 🔬 Áreas de Estudo
+##  Áreas de Estudo
 
 - **Arquitetura de Computadores**
 - **Microprocessadores**
@@ -40,7 +40,7 @@ A abordagem adotada é experimental, utilizando métricas de desempenho, ferrame
 
 ---
 
-## 🧪 Experimentos
+##  Experimentos
 
 ### 01 — Hierarquia de Cache e Desempenho de Algoritmos
 
@@ -100,7 +100,7 @@ Arquitetura **Alder Lake**, utilizada como segunda plataforma experimental para 
 
 ---
 
-## 📊 Principais questões investigadas
+##  Principais questões investigadas
 
 Os experimentos procuram responder questões como:
 
@@ -113,7 +113,7 @@ Os experimentos procuram responder questões como:
 
 ---
 
-## 🧠 Princípio de análise
+##  Princípio de análise
 
 > **"Não existe almoço grátis."**
 
@@ -132,7 +132,7 @@ O objetivo deste laboratório é observar experimentalmente essas relações.
 
 ---
 
-## 🔬 Programação Paralela
+##  Programação Paralela
 
 Uma segunda linha de experimentação aborda **Computação Paralela**, utilizando:
 
@@ -200,7 +200,7 @@ computer-architecture-performance-lab/
 
 ---
 
-## ♻️ Reprodutibilidade
+##  Reprodutibilidade
 
 Sempre que possível, cada experimento disponibilizará:
 
