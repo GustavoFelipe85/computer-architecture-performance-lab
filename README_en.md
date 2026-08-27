@@ -10,7 +10,7 @@ Experimental laboratory focused on the study of **Computer Architecture, Micropr
 
 ---
 
-### 🎯 Objective
+###  Objective
 
 This repository gathers practical experiments developed in the context of advanced studies in **Computer Architecture and Parallel Programming**, investigating the relationship between:
 
@@ -23,7 +23,7 @@ This repository gathers practical experiments developed in the context of advanc
 
 ---
 
-## 🔬 Research Areas
+##  Research Areas
 
 - **Computer Architecture**
 - **Microprocessors**
@@ -38,7 +38,7 @@ This repository gathers practical experiments developed in the context of advanc
 
 ---
 
-## 🧪 Experiments
+##  Experiments
 
 ### 01 — Cache Hierarchy and Algorithm Performance
 
@@ -98,7 +98,7 @@ Experimental analysis of **Bubble Sort** and **Quick Sort**, considering differe
 
 ---
 
-## 📊 Research Questions
+## Research Questions
 
 The experiments investigate questions such as:
 
@@ -111,7 +111,7 @@ The experiments investigate questions such as:
 
 ---
 
-## 🧠 Analytical Principle
+##  Analytical Principle
 
 > **"There is no free lunch."**
 
