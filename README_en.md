@@ -246,7 +246,7 @@ The repository has educational, experimental, and technical portfolio purposes.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Gustavo F. Paluch**
 
@@ -259,7 +259,6 @@ Cybersecurity • IT Infrastructure • DevOps • IoT
 
 ---
 
-## 📄 License
 
 This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
 
