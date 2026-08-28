@@ -249,7 +249,7 @@ O repositório possui finalidade educacional, experimental e de portfólio técn
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Gustavo F. Paluch**
 
@@ -262,8 +262,3 @@ Cibersegurança • Infraestrutura de TI • DevOps • IoT
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob os termos da MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-````
