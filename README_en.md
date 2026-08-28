@@ -1,7 +1,8 @@
 # Computer Architecture & Performance Lab
 
-[![LinkedIn Article](https://img.shields.io/badge/LinkedIn-Technical%20Article-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/pulse/do-sil%C3%ADcio-ao-algoritmo-o-que-cache-compiladores-e-gustavo-ywaxf/)
-
+[![LinkedIn Article](https://img.shields.io/badge/LinkedIn-Artigo%20Técnico-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/pulse/do-sil%C3%ADcio-ao-algoritmo-o-que-cache-compiladores-e-gustavo-ywaxf/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citações-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=5EhQZ31XiJ0C)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 > 📖 **LinkedIn Pulse Article:** [From Silicon to Algorithm – What cache, compilers, and parallelism reveal about performance](https://www.linkedin.com/pulse/do-sil%C3%ADcio-ao-algoritmo-o-que-cache-compiladores-e-gustavo-ywaxf/)
 
 🇧🇷 [Leia esta documentação em Português](README.md)
