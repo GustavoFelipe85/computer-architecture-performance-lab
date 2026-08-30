@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as:"
+authors:
+  - family-names: "Paluch Figueiredo"
+    given-names: "Gustavo Felipe"
+title: "Computer Architecture Performance Lab — Experimental Analysis"
+version: 1.0.0
+date-released: 2026-08-24
+url: "https://github.com/GustavoFelipe85/computer-architecture-performance-lab"
